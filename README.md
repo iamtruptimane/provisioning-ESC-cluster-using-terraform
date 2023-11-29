@@ -1,4 +1,4 @@
-# Provosioning ESC-cluster using terraform
+# Provisioning ESC-cluster using terraform
 
 In this project, you will provision an Amazon ECS Cluster into an existing Amazon VPC.
 
