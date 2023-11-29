@@ -11,8 +11,10 @@ In this project, you will provision an Amazon ECS Cluster into an existing Amazo
 * Amazon Elastic Container Service
 * Terraform
 
-## Existing environment:
-![environment before](/provosioning-ESC-cluster-using-terraform/img/env_before.png)
+
+![environment before](https://github.com/iamtruptimane/provisioning-ESC-cluster-using-terraform/blob/main/img/env_before.png)
+
+![environment after](https://github.com/iamtruptimane/provisioning-ESC-cluster-using-terraform/blob/main/img/env_after.png)
 
 ## Existing Infrastructure
 The following resources you should deployed before starting this project and it will be referenced in your ECS Cluster:
